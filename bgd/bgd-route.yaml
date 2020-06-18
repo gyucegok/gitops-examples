@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd.apps.go.ocp.redhatworkshops.io"
+  host: "bgd.apps.cluster-ist-7b57.ist-7b57.example.opentlc.com"
   port:
     targetPort: 8080
   to:
